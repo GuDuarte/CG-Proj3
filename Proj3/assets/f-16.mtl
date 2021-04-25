@@ -1,0 +1,27 @@
+newmtl glass
+Ka 0.4 0.4 0.4
+Kd 0.3 0.3 0.3
+Ks 0.3 0.3 0.3
+illum 2
+d 0.2100
+Ns 120
+map_Kd f-16.jpg
+map_Ka f-16.jpg
+
+newmtl red
+Ka 1.0 0.0 0.0
+Kd 1.0 0.0 0.0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 60.0000
+map_Kd f-16.jpg
+map_Ka f-16.jpg
+
+newmtl blue
+Ka 0.4 0.4 1.0
+Kd 0.4 0.4 1.0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 60
+map_Kd f-16.jpg
+map_Ka f-16.jpg
